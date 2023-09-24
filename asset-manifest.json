@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactApp_Portfolio/static/css/main.b1dd62b7.css",
-    "main.js": "/ReactApp_Portfolio/static/js/main.5c469cf2.js",
+    "main.css": "/ReactApp_Portfolio/static/css/main.10805947.css",
+    "main.js": "/ReactApp_Portfolio/static/js/main.c96f1e7b.js",
     "static/js/787.fb771931.chunk.js": "/ReactApp_Portfolio/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/ReactApp_Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/project-img5.png": "/ReactApp_Portfolio/static/media/project-img5.86ef8b9e4acd5ad23006.png",
@@ -31,12 +31,12 @@
     "static/media/meter3.svg": "/ReactApp_Portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/ReactApp_Portfolio/index.html",
     "static/media/nav-icon1.svg": "/ReactApp_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.b1dd62b7.css.map": "/ReactApp_Portfolio/static/css/main.b1dd62b7.css.map",
-    "main.5c469cf2.js.map": "/ReactApp_Portfolio/static/js/main.5c469cf2.js.map",
+    "main.10805947.css.map": "/ReactApp_Portfolio/static/css/main.10805947.css.map",
+    "main.c96f1e7b.js.map": "/ReactApp_Portfolio/static/js/main.c96f1e7b.js.map",
     "787.fb771931.chunk.js.map": "/ReactApp_Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1dd62b7.css",
-    "static/js/main.5c469cf2.js"
+    "static/css/main.10805947.css",
+    "static/js/main.c96f1e7b.js"
   ]
 }
