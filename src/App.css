@@ -113,6 +113,7 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
   color: #fff !important;
   letter-spacing: 0.8px;
   padding: 0 25px;
+  /* padding: 0 13px; */
   font-size: 18px;
   opacity: 0.75;
 }
@@ -267,6 +268,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   nav.navbar .navbar-nav .nav-link.navbar-link {
     padding: 10px 20px;
     font-size: 25px;
+  }
+  .navbar-text button {
+    font-weight: 700;
+    border-radius: 12px;
+    padding: 9px 15px;
+    font-size: 23px;
+    margin-left: 18px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  nav.navbar .navbar-nav .nav-link.navbar-link {
+    padding: 0 13px;
   }
 }
 
@@ -597,6 +610,20 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     font-size: 30px;
     text-align: left;
     margin-bottom: 30px;
+  }
+
+  .project .nav.nav-pills {
+    width: 100%;
+  }
+  .project .nav.nav-pills .nav-item {
+    width: 33.33333%;
+  }
+  .project .nav.nav-pills .nav-link {
+    padding: 17px 0;
+    width: 100%;
+    font-size: 14px;
+    letter-spacing: 0px;
+    font-weight: 500;
   }
 }
 
