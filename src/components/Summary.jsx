@@ -48,49 +48,34 @@ export const Summary = () => {
                         <div className="project-desc-div">
                           <div style={{ textAlign: "center" }}>
                             <h3 style={{ color: "yellow", fontSize: "2em" }}>
-                              I3 Infosoft
+                              Variables Software
                             </h3>
                             <h4>Frontend Developer</h4>
-                            <h4>May'23 - Present &nbsp;||&nbsp; Noida</h4>
+                            <h4>July'22 - Present &nbsp;||&nbsp; Noida</h4>
                             <p style={cssPara}>
-                              Worked on developing dynamic, user-friendly
-                              websites.
+                              <span style={{ fontSize: "1.8rem" }}>
+                                &bull;{" "}
+                              </span>
+                              Worked on online pharmacy application where we
+                              developed user interface using
+                              <strong> React, Redux</strong> and used
+                              <strong> SCSS</strong> to customize style of web
+                              pages.
                             </p>
                             <p style={cssPara}>
-                              Created responsive web pages for training and web
-                              development modules.
+                              <span style={{ fontSize: "1.8rem" }}>
+                                &bull;{" "}
+                              </span>
+                              Utilised <strong>Redux</strong> for the state
+                              management to increase development performance and
+                              scalability.
                             </p>
                             <p style={cssPara}>
-                              Tech stacks :- Using HTML, CSS, Bootstrap, React
-                              and Javascript.
-                            </p>
-                          </div>
-                          <div style={{ textAlign: "center" }}>
-                            <h3 style={{ color: "yellow", fontSize: "2em" }}>
-                              Astrople Technology
-                            </h3>
-                            <h4>Website Developer Intern</h4>
-                            <h4>Nov'22 - April'23 &nbsp;||&nbsp; Remote</h4>
-                            <p style={cssPara}>
-                              Developed responsive user interface for multiple
-                              websites.
-                            </p>
-                            <p style={cssPara}>
-                              Tech stacks :- Using HTML, CSS and Bootstrap
-                            </p>
-                          </div>
-                          <div style={{ textAlign: "center" }}>
-                            <h3 style={{ color: "yellow", fontSize: "2em" }}>
-                              Freelancer
-                            </h3>
-                            <h4> Frontend Developer Intern</h4>
-                            <h4>Aug'22-Oct'22 &nbsp;||&nbsp; Remote</h4>
-                            <p style={cssPara}>
-                              Developed web training projects for a coaching
-                              institute.
-                            </p>
-                            <p style={cssPara}>
-                              Using HTML, CSS, Bootstrap and Javascript.
+                              <span style={{ fontSize: "1.8rem" }}>
+                                &bull;{" "}
+                              </span>
+                              Optimised code and resolved bugs of existing web
+                              applications.
                             </p>
                           </div>
                         </div>
@@ -145,7 +130,6 @@ export const Summary = () => {
                               commitment to continuous learning<br></br> and
                               professional growth.
                             </p>
-                            <p style={cssPara}>Noida sector 40, U.P</p>
                             <p style={cssPara}>+91-7389757704</p>
                             <p style={cssPara}>rahul.jadon74096@gmail.com</p>
                           </div>

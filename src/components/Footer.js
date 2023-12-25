@@ -20,7 +20,7 @@ export const Footer = () => {
         </a>
       </div>
       <div>
-        <p>Copyright &copy; 2023. All Rights Reserved</p>
+        <p>Copyright &copy; 2024. All Rights Reserved</p>
       </div>
     </footer>
   );

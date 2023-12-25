@@ -10,8 +10,8 @@ export const Banner = () => {
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Learner", "Web Developer", "Freelancer"];
-  const period = 2000;
+  const toRotate = ["Web Developer", "Learner", "Freelancer"];
+  const period = 1500;
 
   useEffect(() => {
     let ticker = setInterval(() => {
@@ -74,21 +74,22 @@ export const Banner = () => {
                   </span>
                   <h2>Rahul Singh Jadon</h2>
                   <h2>
-                    {`I'm `}{" "}
+                    {`I'm `}
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
-                      data-rotate='[ "Learner", "Web Developer", "Freelancer"]'
+                      data-rotate='["Web Developer","Learner", "Freelancer"]'
                     >
                       <span className="wrap">{text}</span>
                     </span>
                   </h2>
                   <p>
-                    Detail-oriented frontend developer with
-                    <strong> 1+ Year</strong> of work experience in developing
-                    high-performance websites for multiple clients and currently
-                    looking for an opportunity to improve my skills while
-                    working with an experienced web development team.
+                    Detail-oriented frontend developer with around
+                    <strong> 18 months </strong> of work experience in
+                    developing high-performance websites for multiple clients
+                    and currently looking for an opportunity to improve my
+                    skills while working with an experienced web development
+                    team.
                   </p>
                   <button
                     className="banner-button"
