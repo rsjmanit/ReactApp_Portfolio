@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg3i from "../assets/img/project-img3i.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
@@ -17,25 +17,25 @@ export const Projects = () => {
   // Project Based On React
   const projectsOfTab1 = [
     {
-      title: "Note Taking App",
+      title: "Portfolio Website",
       description:
-        "Developed a user-friendly Note-Taking App with React, for effortless task and idea management. Easily add, complete, and delete tasks with titles and content. Stay organized with simplicity.",
-      imgUrl: projImg1,
-      srcOfApp: "https://rsjmanit.github.io/React_App_NoteTaking/",
-    },
-    {
-      title: "Personal Portfolio",
-      description:
-        "Unlock the door to my projects and skills with this interactive React portfolio. Each click is an invitation to explore my dedication for coding and web develpment.",
+        "Developed a personal portfolio website to showcase my skills, projects, and professional experience as a frontend developer Ensured a responsive and mobile-friendly design for optimal viewing across various devices and screen sizes",
       imgUrl: projImg2,
       srcOfApp: "#",
     },
     {
-      title: "ToDoList",
+      title: "Admin Dashboard",
       description:
-        "Created a ToDoList application that enables users to create tasks in list format and easily delete them once they're completed.",
-      imgUrl: projImg3,
-      srcOfApp: "https://rsjmanit.github.io/ReactApp_ToDoList/",
+        " Integrated dynamic and interactive charts to visually represent key data trends and analytics.Utilized Material-UI components to create a consistent and aesthetically pleasing design, enhancing the overall user interface.",
+      imgUrl: projImg3i,
+      srcOfApp: "https://rsjmanit.github.io/Admin_Dashboard/",
+    },
+    {
+      title: "Note Taking App",
+      description:
+        "Implemented a user-friendly interface allowing users to quickly add notes with a title and content.Developed a seamless note deletion feature, enabling users to remove notes with a single click",
+      imgUrl: projImg1,
+      srcOfApp: "https://rsjmanit.github.io/React_App_NoteTaking/",
     },
   ];
 

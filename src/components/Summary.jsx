@@ -48,7 +48,7 @@ export const Summary = () => {
                         <div className="project-desc-div">
                           <div style={{ textAlign: "center" }}>
                             <h3 style={{ color: "yellow", fontSize: "2em" }}>
-                              Variables Software
+                              I3 Infosoft
                             </h3>
                             <h4>Frontend Developer</h4>
                             <h4>July'22 - Present &nbsp;||&nbsp; Noida</h4>
@@ -56,24 +56,25 @@ export const Summary = () => {
                               <span style={{ fontSize: "1.8rem" }}>
                                 &bull;{" "}
                               </span>
-                              Worked on online pharmacy application where we
-                              developed user interface using
-                              <strong> React, Redux</strong> and used
+                              Built responsive frontend features and components
+                              of web applications using
+                              <strong> React</strong> and used
                               <strong> SCSS</strong> to customize style of web
-                              pages.
+                              pages
                             </p>
                             <p style={cssPara}>
-                              <span style={{ fontSize: "1.8rem" }}>
-                                &bull;{" "}
-                              </span>
+                              <span style={{ fontSize: "1.8rem" }}>&bull;</span>
                               Utilised <strong>Redux</strong> for the state
                               management to increase development performance and
                               scalability.
                             </p>
                             <p style={cssPara}>
-                              <span style={{ fontSize: "1.8rem" }}>
-                                &bull;{" "}
-                              </span>
+                              <span style={{ fontSize: "1.8rem" }}>&bull;</span>
+                              Collaborated with backend developers and web
+                              designers to improve usability.
+                            </p>
+                            <p style={cssPara}>
+                              <span style={{ fontSize: "1.8rem" }}>&bull;</span>
                               Optimised code and resolved bugs of existing web
                               applications.
                             </p>
